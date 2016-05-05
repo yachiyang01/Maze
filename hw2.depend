@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1461610298 source:c:\users\yachi\documents\cplusdoc\hw2\main.cpp
+	<iostream>
+	"maze.h"
+	"Stack.cpp"
+	"Item.h"
+
+1460644234 c:\users\yachi\documents\cplusdoc\hw2\maze.h
+
+1461490230 source:c:\users\yachi\documents\cplusdoc\hw2\stack.cpp
+	<iostream>
+
+1461485625 c:\users\yachi\documents\cplusdoc\hw2\stack.h
+
+1461463971 source:c:\users\yachi\documents\cplusdoc\hw2\src\ccc.cpp
+	"ccc.h"
+
+1461463971 c:\users\yachi\documents\cplusdoc\hw2\include\ccc.h
+
+1461490230 c:\users\yachi\documents\cplusdoc\hw2\stack.cpp
+	<iostream>
+
+1461476517 source:c:\users\yachi\documents\cplusdoc\hw2\item.cpp
+	"Item.h"
+
+1461476987 c:\users\yachi\documents\cplusdoc\hw2\item.h
+
+1460644234 c:\users\yachi\documents\cplusdoc\hw2\include\maze.h
+
+1461485625 c:\users\yachi\documents\cplusdoc\hw2\include\stack.h
+
+1461476987 c:\users\yachi\documents\cplusdoc\hw2\include\item.h
+
+1461485356 source:c:\users\yachi\documents\cplusdoc\hw2\src\kkkkk.cpp
+	"kkkkk.h"
+
+1461485356 c:\users\yachi\documents\cplusdoc\hw2\include\kkkkk.h
+
+1461476987 source:c:\users\yachi\documents\cplusdoc\hw2\src\stack.cpp
+	<iostream>
+	"Stack.h"
+
